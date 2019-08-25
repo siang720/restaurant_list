@@ -29,22 +29,18 @@
 2. Use command line to clone
 
 ```
-git clone https://github.com/siang720/restaurant_list.git
+$ git clone https://github.com/siang720/restaurant_list.git
 ```
 
 ### Install nvm in order to install Node.js
 
 1. Mac OS
 
-```
 https://github.com/nvm-sh/nvm
-```
 
 2. Windows
 
-```
 https://github.com/coreybutler/nvm-windows
-```
 
 ### Download Node package manager
 
